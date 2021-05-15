@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/28 19:11:24.000.865,=C:\Study\оаип\emb\Unit1.cpp</Transaction>
+    <Transaction>2021/02/28 19:11:24.000.749,=C:\Study\оаип\emb\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/28 19:16:37.000.562,=C:\Study\оаип\emb\Unit2.cpp</Transaction>
+    <Transaction>2021/03/02 23:00:35.000.549,C:\Study\оаип\emb\Unit1.h=C:\Study\оаип\emb\labs\1\1\Unit1.h</Transaction>
+    <Transaction>2021/03/02 23:00:35.000.549,C:\Study\оаип\emb\Unit1.dfm=C:\Study\оаип\emb\labs\1\1\Unit1.dfm</Transaction>
+    <Transaction>2021/03/02 23:00:35.000.549,C:\Study\оаип\emb\Unit1.cpp=C:\Study\оаип\emb\labs\1\1\Unit1.cpp</Transaction>
+    <Transaction>2021/03/02 23:00:37.000.446,C:\Study\оаип\emb\Project1PCH1.h=C:\Study\оаип\emb\labs\1\1\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/02 23:00:38.000.703,C:\Study\оаип\emb\Project1.cbproj=C:\Study\оаип\emb\labs\1\1\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
